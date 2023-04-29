@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F4F4F&size=35&center=true&vCenter=true&width=1000&lines=Sejá+Bem+Vindo+:%29;Meu+nome+é+Vinicius+Nigra;Tenho+29+anos;Sou+Brasileiro;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vininigra&show_icons=true&count_private=true&hide_border=true&title_color=2F4F4F&icon_color=2F4F4F&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vininigra&show_icons=true&count_private=true&hide_border=true&title_color=2F4F4F&icon_color=2F4F4F&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Nigra github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininigra&layout=compact&hide_border=true&title_color=2F4F4F&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
